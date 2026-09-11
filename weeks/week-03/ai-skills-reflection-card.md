@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This activity connects the Andrew Ng / Silicon Valley Girl interview to your own skills. As you watch, notice what people are building with AI, what skills they need, and what skills you may want to develop for your own future.
+This activity connects the Andrew Ng / Silicon Valley Girl interview to your own skills. As you watch, notice what people are building with AI, what skills they need, and what skills you may want to acquire for your own future.
 
 ## 1. Watch For Skills
 
@@ -40,27 +40,9 @@ Possible skills:
 - Working with people
 - Making decisions with incomplete information
 
-## 3. Skill Draft
+## 3. Individual Skill Reflection
 
-Each group must draft five skills for an innovation team. You cannot choose every skill, so choose carefully.
-
-Your five drafted skills:
-
-1.
-2.
-3.
-4.
-5.
-
-After the draft, discuss:
-
-1. Which skill did your group choose first, and why?
-2. Which skill did your group almost forget?
-3. Which skill would matter most for your current campus problem?
-
-## 4. Connect It To Yourself
-
-Write at least one answer for each prompt:
+Write quietly for a few minutes. Be specific. Do not just write "AI" or "communication." Name the actual skill you want to build.
 
 1. A skill I already have:
 2. A skill I want to acquire:
@@ -68,9 +50,32 @@ Write at least one answer for each prompt:
 4. A skill that would help my innovation track:
 5. A skill my group may need this semester:
 
-## 5. How Do People Actually Acquire Skills?
+Now choose your top three skills to acquire:
 
-Pick one skill you want to build. Then answer:
+```text
+Skill 1:
+Why I want this skill:
+
+Skill 2:
+Why I want this skill:
+
+Skill 3:
+Why I want this skill:
+```
+
+## 4. Share And Compare
+
+Each person shares one skill they already have and one skill they want to acquire.
+
+As a group, discuss:
+
+1. Which skills showed up more than once?
+2. Which skills seem most important for innovation with AI?
+3. Which skills would help us with our current campus problem?
+
+## 5. How Will You Acquire The Skill?
+
+Pick one skill from your top three. Then answer:
 
 1. What would practice look like for this skill?
 2. Who could teach, coach, or model this skill for me?
@@ -81,9 +86,11 @@ Pick one skill you want to build. Then answer:
 ## Exit Ticket
 
 ```text
-The skill I want to build is:
+The skill I want to acquire is:
 
 This skill matters because:
 
 One way I will practice it this semester is:
+
+One person, tool, or resource that could help me is:
 ```
