@@ -18,13 +18,12 @@ Discuss:
 
 ## 2. Skill Spotting Game
 
-In your group, make the longest useful list you can of skills you noticed in the video. You get one point for each real skill your group can explain with evidence from the interview.
+In your group, make the longest useful list you can of skills you think are needed to careers and to be innovative
 
 A skill only counts if your group can answer:
 
 ```text
-Where did we notice this skill in the video?
-Why did that skill matter?
+What is the skill and why does it matter
 ```
 
 Possible skills:
@@ -39,6 +38,9 @@ Possible skills:
 - Learning quickly
 - Working with people
 - Making decisions with incomplete information
+- Finance
+- Programming
+- Marketing
 
 ## 3. Individual Skill Reflection
 
