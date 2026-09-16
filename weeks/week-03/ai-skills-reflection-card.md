@@ -117,12 +117,14 @@ Answer:
 1. What exactly do I want to be able to do with this skill?
 2. Why does this skill matter for my future, my track, or my project?
 3. What resource will I use to begin learning it?
-4. What small practice task can I complete this week?
+4. What small practice task can I complete first?
 5. How will I show evidence that I actually practiced?
 
 ## 6. Skill Learning Assignment
 
-Before the next class, spend focused time beginning to learn the hard skill you selected.
+Submit the exit ticket below in class. This is your commitment to one hard skill you want to begin learning this semester.
+
+Over the next four weeks, spend focused time learning and practicing the hard skill you selected. After those four weeks, students will take turns giving short in-class demos of what they learned.
 
 Your skill can be connected to software, data, business, a trade, technology, operations, or how something works.
 
@@ -139,7 +141,7 @@ Examples:
 - Watch a technical tutorial and reproduce the result
 - Read job descriptions and identify the hard skills you would need to qualify
 
-Bring evidence of your learning. Evidence could include notes, screenshots, a small demo, a diagram, a file you created, a short explanation, or a list of what you tried and what confused you.
+Bring evidence of your learning when you demo. Evidence could include notes, screenshots, a small demo, a diagram, a file you created, a short explanation, or a list of what you tried and what confused you.
 
 ## Exit Ticket
 
@@ -148,7 +150,7 @@ The hard skill I want to acquire is:
 
 This skill matters because:
 
-One way I will practice it this week is:
+One way I will practice it this semester is:
 
 One person, tool, or resource that could help me is:
 
