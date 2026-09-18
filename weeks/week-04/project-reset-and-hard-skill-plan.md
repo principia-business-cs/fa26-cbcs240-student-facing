@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Some projects slow down because the group is not sure what to do next. That is normal. Innovation work often gets messy after the first idea. Today is a reset: your group will check what you know, name what is unclear, choose a sharper next step, and connect your project to the hard skill you are learning.
+Some projects slow down because the group is not sure what to do next. That is normal. Innovation work often gets messy after the first idea. Today is a reset: your group will check what you know, name what is unclear, choose a sharper next step.
 
 By the end of class, you should have:
 
