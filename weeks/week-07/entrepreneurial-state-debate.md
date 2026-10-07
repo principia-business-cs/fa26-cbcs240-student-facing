@@ -11,6 +11,20 @@ You do not need to read the full book during class. Your job is to quickly resea
 
 You may use any useful source: book summaries, reviews, author interviews, videos, AI summaries, articles, publisher pages, or library sources. Keep track of what source you used.
 
+## Group Assignments
+
+```text
+Group 1: The Entrepreneurial State
+Book: The Entrepreneurial State
+Author: Mariana Mazzucato
+Main position: Government can be an active driver of innovation, not just a background supporter.
+
+Group 2: The Myth of the Entrepreneurial State
+Book: The Myth of the Entrepreneurial State
+Authors: Deirdre Nansen McCloskey and Alberto Mingardi
+Main position: Innovation is mostly driven by markets, entrepreneurs, and decentralized discovery, not state planning.
+```
+
 ## The Big Question
 
 ```text
@@ -19,7 +33,7 @@ Who drives innovation: government, entrepreneurs, markets, institutions, or some
 
 ## Individual Research And Paragraph
 
-Each student should research one of the two books.
+Research your group's book or side.
 
 Write one paragraph that includes:
 
@@ -49,11 +63,11 @@ Individually research your assigned book or side. Write your paragraph and inclu
 
 Focus on understanding the argument, not memorizing details.
 
-### 2. Form Two Groups: 3 Minutes
+### 2. Meet With Your Group: 3 Minutes
 
-Group A: **The Entrepreneurial State**
+Group 1: **The Entrepreneurial State**
 
-Group B: **The Myth of the Entrepreneurial State**
+Group 2: **The Myth of the Entrepreneurial State**
 
 Each group should quickly compare what members found.
 
@@ -63,18 +77,18 @@ Groups alternate sharing main points.
 
 Round 1:
 
-- Group A shares one main point.
-- Group B shares one main point.
+- Group 1 shares one main point.
+- Group 2 shares one main point.
 
 Round 2:
 
-- Group A shares another main point.
-- Group B shares another main point.
+- Group 1 shares another main point.
+- Group 2 shares another main point.
 
 Round 3:
 
-- Group A shares what they think is the strongest evidence or example.
-- Group B shares what they think is the strongest evidence or example.
+- Group 1 shares what they think is the strongest evidence or example.
+- Group 2 shares what they think is the strongest evidence or example.
 
 As you listen, write down one question for the other side.
 
