@@ -7,9 +7,9 @@ Today we are comparing two different views of innovation:
 - **The Entrepreneurial State** by Mariana Mazzucato
 - **The Myth of the Entrepreneurial State** by Deirdre Nansen McCloskey and Alberto Mingardi
 
-You do not need to read the full book during class. Your job is to quickly research the argument, understand the main points, explain what you found, and discuss which view is more convincing.
+You researched your assigned book or side before class. In class, you will use what you found to explain the argument, listen to the other side, ask questions, and defend your group's position.
 
-You may use any useful source: book summaries, reviews, author interviews, videos, AI summaries, articles, publisher pages, or library sources. Keep track of what source you used.
+You may have used any useful source: book summaries, reviews, author interviews, videos, AI summaries, articles, publisher pages, or library sources. Your paragraph must include the source you used.
 
 ## Group Assignments
 
@@ -31,11 +31,11 @@ Main position: Innovation is mostly driven by markets, entrepreneurs, and decent
 Who drives innovation: government, entrepreneurs, markets, institutions, or some combination of all of them?
 ```
 
-## Individual Research And Paragraph
+## Homework Paragraph
 
-Research your group's book or side.
+Before class, each student should research their group's book or side and write one paragraph.
 
-Write one paragraph that includes:
+Your paragraph should include:
 
 1. Which book or side you researched
 2. What you think the book is mainly about
@@ -46,6 +46,8 @@ Write one paragraph that includes:
 Use this format:
 
 ```text
+Name:
+
 Book/side I researched:
 
 Source I used:
@@ -57,19 +59,33 @@ Your paragraph should be clear enough that someone who did not research your boo
 
 ## 50-Minute Class Plan
 
-### 1. Research And Write: 12 Minutes
+### 1. Individual Check-In: 5 Minutes
 
-Individually research your assigned book or side. Write your paragraph and include your source.
+Review your homework paragraph. Underline or mark:
 
-Focus on understanding the argument, not memorizing details.
+- Your clearest main point
+- Your best evidence, example, or source detail
+- One question you have for the other side
 
-### 2. Meet With Your Group: 3 Minutes
+### 2. Meet With Your Group: 8 Minutes
 
 Group 1: **The Entrepreneurial State**
 
 Group 2: **The Myth of the Entrepreneurial State**
 
-Each group should quickly compare what members found.
+Each group should compare what members found.
+
+As a group, prepare:
+
+```text
+Our side's main claim is:
+
+Our strongest two or three points are:
+
+The best source or example someone found is:
+
+One question we want to ask the other side is:
+```
 
 ### 3. Alternating Share: 12 Minutes
 
@@ -110,11 +126,11 @@ Each side asks the other side questions.
 
 Your goal is not only to win. Your goal is to understand the strongest version of the other argument.
 
-When answering, use evidence from what you researched.
+When answering, use evidence from your homework research and group discussion.
 
-## Defend Your Side: 8 Minutes
+## Defend Your Side: 10 Minutes
 
-Each group prepares a short defense.
+Each group prepares and gives a short defense.
 
 Use this format:
 
@@ -134,7 +150,7 @@ Each group gives a short defense to the class.
 
 ## Final Turn-In
 
-Submit your individual paragraph.
+Submit your individual homework paragraph.
 
 Your submission must include:
 
