@@ -8,6 +8,34 @@ AMD 10-K filing used in class:
 
 <https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000018/amd-20251227.htm>
 
+PDF version of the same 10-K:
+
+<https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000018/0000002488-26-000018.pdf>
+
+## Where To Find The Numbers In The 10-K
+
+Use these page references to find the inputs.
+
+| Input | Where to find it | Report page | PDF page |
+|---|---|---:|---:|
+| Shares outstanding | Cover page, latest practicable date | Cover page | 1 |
+| Diluted shares used in EPS calculation | Consolidated Statements of Operations | 58 | 61 |
+| Cash and cash equivalents | Consolidated Balance Sheets | 60 | 63 |
+| Short-term investments | Consolidated Balance Sheets | 60 | 63 |
+| Current portion of long-term debt, net | Consolidated Balance Sheets | 60 | 63 |
+| Long-term debt, net of current portion | Consolidated Balance Sheets | 60 | 63 |
+| Total debt detail | Note on financial instruments / debt detail | 79 | 82 |
+| Operating cash flow | Consolidated Statements of Cash Flows | 62 | 65 |
+| Purchases of property and equipment | Consolidated Statements of Cash Flows | 62 | 65 |
+| Interest expense | Consolidated Statements of Operations | 58 | 61 |
+| Income tax provision and pre-tax income | Consolidated Statements of Operations | 58 | 61 |
+
+Notes:
+
+- The report page is the page number printed inside the 10-K.
+- The PDF page is the page number shown by a PDF viewer, which includes the cover and index pages.
+- For enterprise value, the key balance sheet page is report page **60**.
+
 ## Key Terms
 
 ### Market Capitalization
@@ -50,6 +78,15 @@ Use:
 Market Cap = Share Price x Shares Outstanding
 ```
 
+For AMD, shares outstanding can be found in two places:
+
+```text
+Cover page: 1,630,410,843 shares outstanding as of January 30, 2026
+Income statement: 1,636 million diluted shares used in EPS calculation for fiscal 2025
+```
+
+For a market capitalization calculation, use the actual shares outstanding from the cover page unless instructed otherwise.
+
 Example layout:
 
 ```text
@@ -74,10 +111,23 @@ Long-term debt
 Other borrowings, if listed
 ```
 
+For AMD, the balance sheet lists:
+
+```text
+Current portion of long-term debt, net = $874 million
+Long-term debt, net of current portion = $2,348 million
+```
+
 Formula:
 
 ```text
 Total Debt = Current Debt + Long-Term Debt
+```
+
+AMD example:
+
+```text
+Total Debt = 874 + 2,348 = $3,222 million
 ```
 
 Excel formula:
@@ -94,6 +144,13 @@ From the balance sheet, find:
 Cash and cash equivalents
 ```
 
+AMD reports:
+
+```text
+Cash and cash equivalents = $5,539 million
+Short-term investments = $5,013 million
+```
+
 Sometimes companies also list short-term investments. Decide whether to include them as excess cash or marketable securities.
 
 Class version:
@@ -108,6 +165,12 @@ Expanded version:
 Cash and Investments = Cash and Cash Equivalents + Short-Term Investments
 ```
 
+AMD expanded version:
+
+```text
+Cash and Investments = 5,539 + 5,013 = $10,552 million
+```
+
 ## Step 4: Calculate Enterprise Value
 
 Basic formula:
@@ -120,6 +183,18 @@ Expanded class formula:
 
 ```text
 Enterprise Value = Market Cap + Total Debt - Cash and Short-Term Investments
+```
+
+AMD basic version:
+
+```text
+Enterprise Value = Market Cap + 3,222 - 5,539
+```
+
+AMD expanded version:
+
+```text
+Enterprise Value = Market Cap + 3,222 - 10,552
 ```
 
 Excel formula:
