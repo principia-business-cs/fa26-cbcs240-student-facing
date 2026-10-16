@@ -1,8 +1,5 @@
 # Business 240: Wealth, Business Ownership, and Innovation
 
-**Group research and discussion | 50 minutes | Groups of 3–4**
-
-**Names:** ____________________________________  **Date:** ______________
 
 Today’s activity replaces the video preparation. No prior viewing is required. You will read a synopsis of *Everyday Millionaires*, investigate ABC Supply, and explain pass-through taxation. Then we will come together to compare what you learned.
 
@@ -24,8 +21,6 @@ Discuss and record:
 4. Why might the habits described help someone accumulate wealth? Would they work today? What conditions or barriers could affect the outcome?
 5. What can a survey of people who became millionaires tell us? What can it not tell us about people who followed similar habits but did not become millionaires?
 
-**Record:** Main argument: __________  Evidence: __________  Limitation or question: __________
-
 ## 2. Investigate ABC Supply — 10 minutes
 
 Read [ABC Supply’s history and milestones](https://www.abcsupply.com/about-us/our-history/history-and-milestones/). Search for an additional credible source if you need to investigate a claim further.
@@ -41,8 +36,6 @@ Discuss and record:
 5. Could someone apply a similar approach today in a local business, such as HVAC, construction, or carpet installation? Give a concrete example and one obstacle.
 6. How does building wealth through business ownership differ from building wealth through employment and long-term investing? Consider time, risk, capital, and responsibilities.
 
-**Record:** Customer problem: __________  Business response: __________  Application today: __________
-
 ## 3. Find out what pass-through taxation means — 10 minutes
 
 Search for **IRS pass-through taxation** and read the opening explanation on the [IRS S corporations page](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations).
@@ -55,19 +48,6 @@ Discuss and record:
 2. Who generally reports the income in an S corporation: the company or its owners?
 3. Why would “the company paid no federal corporate income tax” be insufficient evidence that nobody paid tax on its profits?
 4. How might owners’ tax obligations affect decisions to retain money in a business, distribute cash, or fund expansion?
-
-**Practice case — fictional, not ABC Supply’s finances:**
-
-A hypothetical S corporation has $100,000 of taxable profit. Alex owns 60% and Jordan owns 40% for the entire year. Assume income is allocated in proportion to ownership. For classroom arithmetic only, apply an illustrative 25% tax rate to each owner’s allocated profit, ignoring all other tax rules.
-
-| Calculate | Alex | Jordan |
-|---|---:|---:|
-| Allocated taxable profit | $________ | $________ |
-| Illustrative tax on that profit | $________ | $________ |
-
-Would retaining cash in the company necessarily eliminate the owners’ tax obligation on allocated profit? Explain the difference between **income allocated for tax purposes** and **cash distributed to an owner**.
-
-Do not infer ABC Supply’s current tax classification from this exercise. A claim about a real company’s tax treatment requires separate evidence.
 
 ## 4. Connect the ideas and prepare to share — 5 minutes
 
