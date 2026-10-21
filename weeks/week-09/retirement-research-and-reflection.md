@@ -8,11 +8,17 @@ This connects our exploration of wealth building, government and markets, and in
 
 You do not need to buy or read the full book for this assignment.
 
-## 1. Listen to Ghilarducci
+## 1. Choose One Interview to Explore in Depth
 
-Listen to the full [Texas Public Radio interview on The Source (49 minutes, 18 seconds)](https://www.tpr.org/podcast/the-source/2024-02-20/americans-who-work-longer-have-shorter-life-expectancies-according-to-research), aired February 20, 2024.
+**Choose one of the three long-form interviews below and listen to it in full. You do not need to listen to all three.** Pick the angle that interests you most, then choose one claim or proposed solution from that interview to investigate further.
 
-A shorter video alternative, with captions and a transcript, is [PBS: Retirement and Social Security (26 minutes, 47 seconds)](https://www.pbs.org/video/retirement-and-social-security-or6w4u/), aired October 6, 2024. Identify which interview you used.
+| Interview | Focus to help you choose |
+| --- | --- |
+| [The Source — Texas Public Radio](https://www.tpr.org/podcast/the-source/2024-02-20/americans-who-work-longer-have-shorter-life-expectancies-according-to-research) — 49:18; February 20, 2024 | Working longer, health, financial insecurity, and the experience of older workers. |
+| [Who Makes Cents: Teresa Ghilarducci on the Past and Future of Retirement](https://whomakescentspodcast.com/2024/06/03/teresa-ghilarducci-on-the-past-and-future-of-retirement/) — June 3, 2024 | How politics, economics, and changing social values have shaped retirement. Follow the page's “here” link to play the episode. A useful choice for the historical comparison. |
+| [Slate Money: The United States Is Doing Retirement Wrong](https://slate.com/podcasts/slate-money/2024/06/retirement-how-the-united-states-is-failing-its-retirees) — approximately 38–40 minutes; June 5, 2024 | Ghilarducci and Felix Salmon discuss 401(k)s, international comparisons, and proposals to improve retirement. A useful choice for comparing systems; complete the separate China research below. |
+
+For captions and a transcript, the shorter [PBS: Retirement and Social Security (26:47)](https://www.pbs.org/video/retirement-and-social-security-or6w4u/) remains an accessibility alternative.
 
 Take brief notes:
 
@@ -20,7 +26,7 @@ Take brief notes:
 - What does she say the retirement problem is, who is affected, and what caused it?
 - Why does she challenge the advice to work longer? What solutions does she propose, and how would they help?
 
-Record one specific example or claim and its timestamp. Separate her argument from your own opinion.
+Identify your chosen interview and why you selected it. Record one specific claim or proposed solution and its timestamp, then use at least one additional credible source to investigate it. Does the source support, complicate, or challenge her argument? Bring that finding to class. Separate her argument from your own opinion.
 
 ## 2. Research Social Security Eligibility
 
@@ -62,7 +68,7 @@ Record the year of each source. Distinguish current rules from future changes an
 
 Write in your own words about what you learned from this research. Connect:
 
-- One main problem or solution Ghilarducci discusses.
+- One main problem or solution from your chosen interview, and what you learned by investigating it further.
 - One finding about eligibility, life before Social Security, or China that surprised you or changed your thinking.
 - Your assessment: what should individuals, families, employers, or government be responsible for, and what tradeoff or unanswered question remains?
 
