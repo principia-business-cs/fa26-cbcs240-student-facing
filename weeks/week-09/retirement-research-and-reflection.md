@@ -8,17 +8,21 @@ This connects our exploration of wealth building, government and markets, and in
 
 You do not need to buy or read the full book for this assignment.
 
-## 1. Choose One Interview to Explore in Depth
+## 1. Choose an Interview or Video to Explore in Depth
 
-**Choose one of the three long-form interviews below and listen to it in full. You do not need to listen to all three.** Pick the angle that interests you most, then choose one claim or proposed solution from that interview to investigate further.
+**Choose one of the interviews or videos below and watch or listen to it in full. You do not need to complete every option.** Pick the angle that interests you most, then choose one claim or proposed solution to investigate further.
 
-| Interview | Focus to help you choose |
+| Interview or video | Focus to help you choose |
 | --- | --- |
 | [The Source — Texas Public Radio](https://www.tpr.org/podcast/the-source/2024-02-20/americans-who-work-longer-have-shorter-life-expectancies-according-to-research) — 49:18; February 20, 2024 | Working longer, health, financial insecurity, and the experience of older workers. |
 | [Who Makes Cents: Teresa Ghilarducci on the Past and Future of Retirement](https://whomakescentspodcast.com/2024/06/03/teresa-ghilarducci-on-the-past-and-future-of-retirement/) — June 3, 2024 | How politics, economics, and changing social values have shaped retirement. Follow the page's “here” link to play the episode. A useful choice for the historical comparison. |
 | [Slate Money: The United States Is Doing Retirement Wrong](https://slate.com/podcasts/slate-money/2024/06/retirement-how-the-united-states-is-failing-its-retirees) — approximately 38–40 minutes; June 5, 2024 | Ghilarducci and Felix Salmon discuss 401(k)s, international comparisons, and proposals to improve retirement. A useful choice for comparing systems; complete the separate China research below. |
 
+| [Additional YouTube video selected for class](https://www.youtube.com/watch?v=ku-6rBYqNAM) | Another option for your preparation. Record its title, speaker, and one claim you want to investigate further. |
+
 For captions and a transcript, the shorter [PBS: Retirement and Social Security (26:47)](https://www.pbs.org/video/retirement-and-social-security-or6w4u/) remains an accessibility alternative.
+
+**Use other sources as well.** The links here are starting points. Find at least one additional credible source of your own—such as another interview, an article, a book excerpt, academic research, or an official report—to deepen or question what you learned. Record who produced it, when it was published, and its link. Whatever sources you choose, complete all the research sections below and come prepared to explain Ghilarducci's main ideas, the problem she identifies, and her proposed solutions in your own words.
 
 Take brief notes:
 
@@ -26,7 +30,7 @@ Take brief notes:
 - What does she say the retirement problem is, who is affected, and what caused it?
 - Why does she challenge the advice to work longer? What solutions does she propose, and how would they help?
 
-Identify your chosen interview and why you selected it. Record one specific claim or proposed solution and its timestamp, then use at least one additional credible source to investigate it. Does the source support, complicate, or challenge her argument? Bring that finding to class. Separate her argument from your own opinion.
+Identify your chosen interview or video and why you selected it. Record one specific claim or proposed solution and its timestamp, then use at least one additional credible source to investigate it. Does the source support, complicate, or challenge her argument? Bring that finding to class. Separate her argument from your own opinion.
 
 ## 2. Research Social Security Eligibility
 
@@ -68,17 +72,17 @@ Record the year of each source. Distinguish current rules from future changes an
 
 Write in your own words about what you learned from this research. Connect:
 
-- One main problem or solution from your chosen interview, and what you learned by investigating it further.
+- One main problem or solution from your chosen interview or video, and what you learned by investigating it further.
 - One finding about eligibility, life before Social Security, or China that surprised you or changed your thinking.
 - Your assessment: what should individuals, families, employers, or government be responsible for, and what tradeoff or unanswered question remains?
 
 Include at least one specific example or piece of evidence. You may agree, disagree, or be undecided; explain why. This is a reflection, not a list of answers to every research question.
 
-List the interview and the sources you actually used for the U.S. eligibility, historical, and China research. Include the interview timestamp in your notes. You may use AI to help identify ideas or sources, but verify factual claims against the linked sources and write the reflection yourself.
+List the interview or video and the sources you actually used for the U.S. eligibility, historical, and China research. Include the interview or video timestamp in your notes. You may use AI to help identify ideas or sources, but verify factual claims against the linked sources and write the reflection yourself.
 
 ## Bring to Class
 
-Bring your reflection, brief notes covering all three research sections, source links, and one question for discussion. The notes are preparation for conversation; they are not an additional essay.
+**Come to class prepared:** bring your reflection, brief notes covering all three research sections, the links to your chosen interview or video and additional sources, and one question for discussion. Be ready to share a specific finding, explain where you found it, and discuss whether the evidence supports your conclusion. The notes are preparation for conversation; they are not an additional essay.
 
 We will begin with individual reflection, compare findings in pairs or small groups, and share with the class:
 
