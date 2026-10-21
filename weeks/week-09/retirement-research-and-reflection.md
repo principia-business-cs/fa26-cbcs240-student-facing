@@ -15,6 +15,7 @@ Listen to the full [Texas Public Radio interview on The Source (49 minutes, 18 s
 A shorter video alternative, with captions and a transcript, is [PBS: Retirement and Social Security (26 minutes, 47 seconds)](https://www.pbs.org/video/retirement-and-social-security-or6w4u/), aired October 6, 2024. Identify which interview you used.
 
 Take brief notes:
+
 - Who is Ghilarducci, and what are her main ideas?
 - What does she say the retirement problem is, who is affected, and what caused it?
 - Why does she challenge the advice to work longer? What solutions does she propose, and how would they help?
@@ -24,6 +25,7 @@ Record one specific example or claim and its timestamp. Separate her argument fr
 ## 2. Research Social Security Eligibility
 
 Focus on U.S. Social Security retirement benefits. Find out:
+
 - Who qualifies through their own work record? Explain work credits, covered employment, and the difference between the earliest claiming age and full retirement age.
 - Who might not qualify through their own record? Could they qualify through a spouse, former spouse, or deceased spouse?
 - Can noncitizens qualify, and what conditions apply?
@@ -32,6 +34,7 @@ Focus on U.S. Social Security retirement benefits. Find out:
 Prepare one example of someone who qualifies and one of someone who does not. State the assumptions behind your examples. Do not assume everyone qualifies just by reaching a certain age, or that having no paid work history rules out all benefits.
 
 Start with official sources:
+
 - [SSA: Check eligibility for benefits](https://www.ssa.gov/prepare/check-eligibility-for-benefits)
 - [SSA: Social Security credits](https://www.ssa.gov/benefits/retirement/planner/credits.html)
 - [SSA: Family benefits](https://www.ssa.gov/family)
@@ -47,6 +50,7 @@ Start with [SSA: Historical Background and Development of Social Security](https
 **China:** How do older people receive retirement income? Compare pensions for formal employees with pensions for rural and other residents. Who is covered, who may receive inadequate support, and what role do families play? Identify one similarity and one difference compared with the United States.
 
 Starting sources:
+
 - [World Bank: China Economic Update, June 2024](https://thedocs.worldbank.org/en/doc/c7a6b75bc5c138a7ec7e62789695978f-0070012024/original/CEU-June-2024-EN.pdf) — search within the report for "pension."
 - [China: Flexible retirement measures effective from 2025](https://english.www.gov.cn/news/202501/01/content_WS67753648c6d0868f4e8ee6e6.html)
 
@@ -57,6 +61,7 @@ Record the year of each source. Distinguish current rules from future changes an
 **Before class, submit approximately half a page of double-spaced writing in Canvas.** Use a readable 12-point font and standard 1-inch margins; about 125–175 words is a useful guide. Put your name at the top and source links below the reflection; those do not count toward the half-page length.
 
 Write in your own words about what you learned from this research. Connect:
+
 - One main problem or solution Ghilarducci discusses.
 - One finding about eligibility, life before Social Security, or China that surprised you or changed your thinking.
 - Your assessment: what should individuals, families, employers, or government be responsible for, and what tradeoff or unanswered question remains?
@@ -70,6 +75,7 @@ List the interview and the sources you actually used for the U.S. eligibility, h
 Bring your reflection, brief notes covering all three research sections, source links, and one question for discussion. The notes are preparation for conversation; they are not an additional essay.
 
 We will begin with individual reflection, compare findings in pairs or small groups, and share with the class:
+
 1. What did you learn, and where did you find it?
 2. Which of Ghilarducci's solutions would you support, change, or reject? Why?
 3. What could we learn from the past or from China when designing a better retirement system? What costs, risks, or unintended consequences should we consider?
