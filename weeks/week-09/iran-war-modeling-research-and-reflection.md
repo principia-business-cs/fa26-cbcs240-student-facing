@@ -2,8 +2,6 @@
 
 ## Before Our Next Class
 
-**This assignment is for the class section that selected the Iran war topic.** The section that selected retirement should complete the separate retirement assignment.
-
 Watch the full [assigned Robert Pape video on modeling the Iran war](https://www.youtube.com/watch?v=fhL44S4HfCk) before class. Come prepared to explain the argument, examine the model's assumptions, and discuss what you learned.
 
 This connects to our course's emphasis on gathering evidence, making sense of uncertainty, considering risks and tradeoffs, and revising our thinking. A model is useful only if we understand what it assumes and how we could test it.
