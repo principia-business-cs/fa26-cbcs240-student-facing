@@ -17,7 +17,6 @@ You do not need to buy or read the full book for this assignment.
 | [The Source — Texas Public Radio](https://www.tpr.org/podcast/the-source/2024-02-20/americans-who-work-longer-have-shorter-life-expectancies-according-to-research) — 49:18; February 20, 2024 | Working longer, health, financial insecurity, and the experience of older workers. |
 | [Who Makes Cents: Teresa Ghilarducci on the Past and Future of Retirement](https://whomakescentspodcast.com/2024/06/03/teresa-ghilarducci-on-the-past-and-future-of-retirement/) — June 3, 2024 | How politics, economics, and changing social values have shaped retirement. Follow the page's “here” link to play the episode. A useful choice for the historical comparison. |
 | [Slate Money: The United States Is Doing Retirement Wrong](https://slate.com/podcasts/slate-money/2024/06/retirement-how-the-united-states-is-failing-its-retirees) — approximately 38–40 minutes; June 5, 2024 | Ghilarducci and Felix Salmon discuss 401(k)s, international comparisons, and proposals to improve retirement. A useful choice for comparing systems; complete the separate China research below. |
-
 | [Additional YouTube video selected for class](https://www.youtube.com/watch?v=ku-6rBYqNAM) | Another option for your preparation. Record its title, speaker, and one claim you want to investigate further. |
 
 For captions and a transcript, the shorter [PBS: Retirement and Social Security (26:47)](https://www.pbs.org/video/retirement-and-social-security-or6w4u/) remains an accessibility alternative.
