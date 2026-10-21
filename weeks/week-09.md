@@ -13,3 +13,7 @@ A prototype is a question made tangible.
 ## Deliverable
 
 Prototype 1 Plan
+
+## Discussion Preparation
+
+Complete [Who Gets to Retire? Research and Reflection](week-09/retirement-research-and-reflection.md) before our retirement discussion. Research Ghilarducci's ideas, Social Security eligibility, life before Social Security, and China. Submit a half-page, double-spaced reflection in Canvas and bring your research notes to class.
