@@ -12,10 +12,10 @@ This connects to our course's emphasis on gathering evidence, making sense of un
 
 Use these questions to guide your preparation. Brief notes are enough; you do not need to write a separate essay for each question.
 
-1. **What is Pape trying to explain or predict?** Describe his main argument and how his model connects events, decisions, or conditions to possible outcomes.
-2. **What assumptions and evidence does he use?** Identify one important assumption and one example of evidence. What might the model leave out?
-3. **What would change his conclusion?** Identify a development or piece of evidence that would support, weaken, or challenge his argument. Distinguish a possible scenario from a prediction.
-4. **What did you learn, and what do you question?** Explain one insight, uncertainty, or tradeoff you want to discuss.
+1. **What are Pape's main arguments?** What does he think could happen in the Iran war?
+2. **How does he support his arguments?** What evidence, historical examples, or reasoning does he use? Which do you find most convincing?
+3. **How likely do you think the outcome he describes is to happen?** Why might it happen, and why might it not? Explain what would need to be true and what could change the outcome.
+4. **What did you learn, and what do you still question?** Use another source to check one of his claims and bring one question for class discussion.
 
 Record the video's publication date and at least one timestamp for a claim you plan to discuss. Separate what Pape says from your own interpretation.
 
@@ -45,8 +45,8 @@ Use at least one specific example or piece of evidence. You may agree, disagree,
 Bring your reflection, notes, video timestamp, additional source link, and one discussion question. Be ready to explain your findings without relying on someone else to summarize the video for you.
 
 We will reflect individually, compare findings in pairs or small groups, and share with the class:
-1. What does the model help us understand?
-2. Which assumption matters most, and how could we test it?
-3. What evidence would make us revise our view?
+1. What is his main argument, and how does he support it?
+2. How likely is the outcome he describes? Why might it happen, and why might it not?
+3. What did your other source add, and what evidence would change your mind?
 
 Focus on evidence, uncertainty, and the consequences of different choices. Listen carefully to classmates who reach different conclusions.
