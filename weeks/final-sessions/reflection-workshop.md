@@ -1,57 +1,68 @@
-# Defining Innovation and Developing Your Final Reflection
+# What Innovation Means to Me: Five-Minute Student Talks
 
-CBCS240: Technology and Innovation | Session 3 of our final three classes | 50 minutes
+CBCS240: Technology and Innovation | Closing class discussion
 
-Bring notes or a draft for your [three-page final reflection](../../assignments/final-course-reflection.md). Today is a writing and discussion workshop to help you support your ideas with evidence.
+Each student has five minutes to explain what innovation means to them. These talks are a chance to learn from one another and develop ideas for the [three-page final reflection paper](../../assignments/final-course-reflection.md). The paper is the course final.
 
-## 1. Define innovation individually | 0-7 minutes
+You do not need a finished essay or slides. Bring a few notes. You may still be working out your definition.
 
-Write your definition in two or three sentences. Add one course example and explain how it fits. What would not count as innovation under your definition?
+## Your five minutes
 
-## 2. Compare with a partner | 7-17 minutes
+Use these prompts to organize your talk:
 
-Take five minutes each.
+1. **My definition:** What do you think innovation is? Explain it in your own words.
+2. **My example:** Describe something from the course, your campus project, or everyday life that illustrates your definition. Why does it count as innovation?
+3. **My learning:** What experience changed, challenged, or strengthened your thinking? What do you understand now?
+4. **My next question:** What are you still unsure about, or how might you apply this thinking in your life?
 
-- Where do your definitions agree or differ?
-- Does the example support the definition?
-- Does innovation require something entirely new, or can adapting an existing idea qualify? Explain.
-- What would make the definition more precise?
+Suggested pacing: one minute for your definition, two for your example, one for your learning, and one for your question or future application.
 
-Revise your definition if the conversation gives you a reason to.
+This is a conversation about your understanding, not another hard-skill demonstration. There is no single definition everyone must repeat. Explain your reasoning.
 
-## 3. Build your essay outline | 17-29 minutes
+## While others speak
 
-For each area of the final prompt, record a claim and a specific example:
+Listen for something that helps you think, especially if you are unsure how to start your paper.
 
-| Area | What I want to say | Experience or evidence supporting it |
+| Speaker | An idea or example that stood out | How it connects to or challenges my thinking |
 |---|---|---|
-| What I learned | | |
-| My definition of innovation | | |
-| What I will carry forward | | |
-| Course strengths, weaknesses, and a proposed improvement | | |
+| | | |
+| | | |
+| | | |
 
-Do not invent a change of opinion. You may explain why an existing view became stronger or more nuanced.
+Consider:
 
-## 4. Exchange focused feedback | 29-39 minutes
+- What do I agree or disagree with, and why?
+- What experience of my own does this remind me of?
+- What could I explain more clearly in my paper?
 
-Share a paragraph or part of your outline. You may keep personal course feedback private and choose another section.
+Let each speaker finish. Write questions down so everyone gets their full five minutes.
 
-Your partner answers:
+## After listening: start or revise your paper
 
-1. What is the clearest insight?
-2. Where would a concrete example or explanation help?
-3. Where does the writing describe an event without explaining what was learned?
+Write a short paragraph using any of these starting points:
 
-## 5. Revise | 39-46 minutes
-
-Develop or revise one paragraph using the feedback. Connect the experience, what you learned, and why it matters.
-
-## 6. Closing share | 46-50 minutes
-
-Each student offers a brief response as time allows:
-
-> I now define innovation as __________.
+> Before listening today, I thought innovation meant __________.
 >
-> One practice I will take with me is __________ because __________.
+> An idea that helped or challenged me was __________.
+>
+> In my own experience, __________.
+>
+> I now define innovation as __________ because __________.
 
-Continue revising your paper before the Canvas deadline. The three-page paper is the course final; today's activities help you prepare it.
+Your view does not have to change. Explain why it changed, became clearer, or stayed the same.
+
+You may build on a classmate's idea. Acknowledge the speaker in your essay, explain your own response, and connect it to your own experience. Do not present someone else's experience as your own.
+
+Your final paper also needs to address the course's strengths, weaknesses, and a concrete suggested improvement. You can keep personal course feedback in your paper rather than sharing it aloud.
+
+## Timing and speaking order
+
+A 50-minute class can accommodate:
+
+- 5 minutes: prepare notes and confirm the speaking order.
+- 40 minutes: eight students speak for five minutes each.
+- 5 minutes: everyone writes an individual reflection.
+
+If there are more than eight students, begin the talks in the preceding session and continue in the final class. Reserve five minutes per student across the two sessions; shorten the preceding project's workshop as needed. Everyone receives the same speaking time.
+
+The instructor will announce the speaking order in advance. Students who speak earlier may revise their thinking after hearing others. Continue developing your paper after the discussion and submit by the Canvas deadline.
