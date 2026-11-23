@@ -66,6 +66,16 @@ Identify at least one strength and one weakness, using specific examples.
 
 Your grade does not depend on praising the course or agreeing with the instructor. Thoughtful criticism and positive feedback are equally welcome.
 
+## Use the closing classes to develop your paper
+
+- [Objectives and the innovation loop](../weeks/final-sessions/course-redesign-workshop.md): identify evidence of your learning, teamwork, and the course's strengths and weaknesses.
+- [Books and big ideas](../weeks/final-sessions/books-and-big-ideas.md): choose one resource or topic and draft a paragraph about what it helped you understand.
+- [Five-minute innovation talks](../weeks/final-sessions/reflection-workshop.md): explain your definition, learn from others, and revise your thinking.
+
+As you reflect, consider the course objectives: developing relevant professional skills and perspectives; working with others; broadening your appreciation of intellectual activity; and critically evaluating ideas and arguments. Use the objectives to identify specific evidence of learning or gaps. You do not need a separate section for each objective, and you are not expected to claim that every objective was achieved.
+
+These activities support the same three-page paper. They do not increase its length or require additional essays.
+
 ## Format and submission
 
 - Three pages of essay text, double-spaced, using a readable 12-point font and one-inch margins.
