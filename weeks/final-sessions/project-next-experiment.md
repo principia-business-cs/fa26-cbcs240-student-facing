@@ -1,6 +1,8 @@
 # Your Project's Next Experiment
 
-CBCS240: Technology and Innovation | Session 2 of our final three classes | 50 minutes
+CBCS240: Technology and Innovation | Optional project activity | 50 minutes
+
+The scheduled second-to-last class is now [Books and Big Ideas](books-and-big-ideas.md). This project activity remains available as an optional resource.
 
 Return to your campus innovation project. Your goal today is to use what you know to choose and improve one small next experiment. Bring any interview notes, observations, sketches, prototypes, or feedback you already have.
 
