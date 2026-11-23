@@ -4,6 +4,8 @@ CBCS240: Technology and Innovation | Closing class discussion
 
 Each student has five minutes to explain what innovation means to them. These talks are a chance to learn from one another and develop ideas for the [three-page final reflection paper](../../assignments/final-course-reflection.md). The paper is the course final.
 
+Bring your course-redesign notes and your paragraph from [Books and Big Ideas](books-and-big-ideas.md). Use them to connect your definition to a course experience or perspective that expanded your thinking.
+
 You do not need a finished essay or slides. Bring a few notes. You may still be working out your definition.
 
 ## Your five minutes
@@ -63,6 +65,6 @@ A 50-minute class can accommodate:
 - 40 minutes: eight students speak for five minutes each.
 - 5 minutes: everyone writes an individual reflection.
 
-If there are more than eight students, begin the talks in the preceding session and continue in the final class. Reserve five minutes per student across the two sessions; shorten the preceding project's workshop as needed. Everyone receives the same speaking time.
+If there are more than eight students, begin the talks in the preceding session and continue in the final class. Reserve five minutes per student across the two sessions; use the shortened book-discussion schedule in [Books and Big Ideas](books-and-big-ideas.md) as needed. Everyone receives the same speaking time.
 
 The instructor will announce the speaking order in advance. Students who speak earlier may revise their thinking after hearing others. Continue developing your paper after the discussion and submit by the Canvas deadline.
